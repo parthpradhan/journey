@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/journey/static/css/main.22ab3a34.css",
-    "main.js": "/journey/static/js/main.d384e4f8.js",
-    "index.html": "/journey/index.html",
-    "main.22ab3a34.css.map": "/journey/static/css/main.22ab3a34.css.map",
-    "main.d384e4f8.js.map": "/journey/static/js/main.d384e4f8.js.map"
+    "main.css": "/chrononote/static/css/main.22ab3a34.css",
+    "main.js": "/chrononote/static/js/main.d384e4f8.js",
+    "index.html": "/chrononote/index.html",
+    "main.22ab3a34.css.map": "/chrononote/static/css/main.22ab3a34.css.map",
+    "main.d384e4f8.js.map": "/chrononote/static/js/main.d384e4f8.js.map"
   },
   "entrypoints": [
     "static/css/main.22ab3a34.css",
