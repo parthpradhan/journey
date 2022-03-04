@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/journey/static/css/main.22ab3a34.css",
+    "main.js": "/journey/static/js/main.6868e0e8.js",
+    "index.html": "/journey/index.html",
+    "main.22ab3a34.css.map": "/journey/static/css/main.22ab3a34.css.map",
+    "main.6868e0e8.js.map": "/journey/static/js/main.6868e0e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ab3a34.css",
+    "static/js/main.6868e0e8.js"
+  ]
+}
